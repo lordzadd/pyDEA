@@ -1,4 +1,4 @@
-*pyDEA* is a software package developed in Python for conducting data envelopment analysis (DEA). 
+*pyDEA* is a software package developed in Python for conducting data envelopment analysis (DEA). This repo fixes the error at the start of pydea gui. There is no other difference.
 
 User documentation can be found at https://araith.github.io/pyDEA/.
 
